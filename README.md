@@ -9,7 +9,7 @@ Now click _API development tools_ and copy two parameters: `api_id` and `api_has
 When you have them, open `config.ini` and `main.py` in any text editor and write your APIs in the following format:
 
 In **config.ini**
-```
+```ini
 [pyrogram]
 api_id = 79230203
 api_hash = 782a3oe32aho234ddoeuae9i734dtdtd8
