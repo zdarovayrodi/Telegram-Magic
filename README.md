@@ -2,7 +2,7 @@
 
 ## Setting up
 Firstly, you need to get your _api_id_ and _api_hash_.
-For that go to https://my.telegram.org/ and log in with your _phone number_. You will receive a code in the _messenger_.
+For that go to https://my.telegram.org/ and log in with your _phone number_. You will receive a _code_ in the Telegram.
 
 Now click _API development tools_ and copy two parameters: `api_id` and `api_hash`.
 
