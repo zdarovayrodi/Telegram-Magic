@@ -1,6 +1,8 @@
 # Telegram Magic 💛
 
-## Setting up
+<img src="https://user-images.githubusercontent.com/62175053/166745111-b2c30b8f-daa2-4e6a-9e18-dbc717bb93c8.gif" width="600" />
+
+## Setting up!
 Firstly, you need to get your _api_id_ and _api_hash_.
 For that go to https://my.telegram.org/ and log in with your _phone number_. You will receive a _code_ in the Telegram.
 
